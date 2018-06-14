@@ -10,7 +10,6 @@ Requirements:
   
 Steps:
   - run 'roslaunch freenect_launch freenect.launch
-    or:
-    run 'roslaunch openni_launch openni.launch
+    or: 'roslaunch openni_launch openni.launch
   - go to the folder where kin_dis_test.py is located
   - run 'python kin_dis_test.py'
