@@ -5,7 +5,9 @@ It uses PointCloud data received from the kinect to analyse the distance of obje
 These objects are clustered with a maximum of 6 objects.
 
 Requirements:
-  - install the Freenect drivers or the OpenNI drivers
+  - install the Freenect drivers or the OpenNI drivers:
+  - https://github.com/OpenKinect/libfreenect#build-instructions
+  - https://github.com/OpenNI/OpenNI
   - the kin_dis_test.py script
   
 Steps:
