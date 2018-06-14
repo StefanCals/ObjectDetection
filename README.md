@@ -37,7 +37,7 @@ It is therefor specifically designed to function with the following packages:
  - Path planning:
  - https://github.com/NielsPeulen/UR5CobotControler
  - Visualisation:
- - 
+ - https://github.com/Ron472/cobot_visualisation
  
  Video:
  https://www.youtube.com/watch?v=YmooYBySHqc
