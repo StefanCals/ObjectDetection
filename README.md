@@ -21,9 +21,11 @@ To verify the PointCloud data is received correctly from the kinect
   - run 'rosrun rviz rviz'
   - in 'Global Options' set the 'Fixed Frame' to 'camera_depth_frame'
   - add PointCloud2
+  
 To see distance:
   - set as topic: 'camera/depth/points'
   - set intensity as z
+  
 To combine PointCloud with camera:
   - set as topic: 'camera/depth/points_registered
   - set color transform: 'RGB8'
