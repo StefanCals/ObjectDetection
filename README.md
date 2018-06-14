@@ -33,7 +33,7 @@ To combine PointCloud with camera:
   - set color transform: 'RGB8'
  
 This package is used in the cobot safety project. It is one of the three packages needed to make a safety system for the UR5.
-It is therefor specifically designed to function with the following packages:
+It is therefore specifically designed to function with the following packages:
  - Path planning:
  - https://github.com/NielsPeulen/UR5CobotControler
  - Visualisation:
