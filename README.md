@@ -6,7 +6,7 @@ These objects are clustered with a maximum of 6 objects.
 
 Requirements:
   - install the Freenect drivers or the OpenNI drivers
-  - the kin_dis_test.py node
+  - the kin_dis_test.py script
   
 Steps:
   - make sure the Xbox Kinect is connected
